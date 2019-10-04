@@ -1,0 +1,13 @@
+Shot List
+
+Pis with cameras attached
+Video of compilation
+Mount to attach to DSLR
+Bird table
+Full setup pointed at bird table
+Picture taken of bird, with Pi identifying it (preferably with % confidence)
+Something silly (soft toy?) on the bird table, with Pi's attempt to categorise it
+
+Hopefully also:
+Picture taken of person outside Mark's door
+Picture of cat coming through cat flap in James' house

@@ -1,0 +1,29 @@
+Script
+
+The Task
+========
+Short version: Take a picture of a birdie
+Long version: Leave a camera pointing at a bird table through the lens of a DSLR camera. Use image recognition to identify when a bird lands on the table, then take a picture by triggering the DSLR.
+
+
+The Technology
+==============
+Raspberry Pi (well, obviously)
+Standard Pi camera
+Python
+Microsoft ELL
+
+
+The Approach
+============
+Install ELL on a PC to create a model that can be downloaded to the Pi.
+Download a pre-trained model that can identify birds.
+3D-print a mount for the Pi camera to the DSLR viewfinder.
+Build a circuit to trigger the DSLR shutter.
+Create Python program that uses the model and triggers the DSLR.
+
+
+Hopefully also
+==============
+Create variant of the Python program to identify when a person appears in shot and take a picture with the Pi camera, to be used outside Mark's door.
+Create variant of the Python program to identify when a cat appears in shot and take a picture with the Pi camera, to be used inside James' cat flap.
