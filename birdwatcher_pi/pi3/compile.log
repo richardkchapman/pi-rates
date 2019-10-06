@@ -1,0 +1,1 @@
+/home/hpcc-dev/ELL/build/bin/compile -imap /home/hpcc-dev/birdwatcher/model.ell -cfn Predict -cmn model --bitcode --target pi3 -od pi3 --fuseLinearOps True --optimizeReorderDataNodes True --swig --blas true --optimize true --parallelize true --vectorize

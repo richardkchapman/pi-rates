@@ -1,0 +1,1 @@
+/usr/lib/llvm-8/bin/opt pi3/model.bc -o pi3/model.opt.bc -O3
